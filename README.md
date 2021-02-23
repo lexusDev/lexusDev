@@ -1,7 +1,7 @@
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
-# Thiago Marinho
+# Alex Monteiro
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
